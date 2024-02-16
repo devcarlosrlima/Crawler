@@ -8,7 +8,7 @@ Abra o terminal e navegue até o diretório do seu projeto. Em seguida, execute 
 ```
 npm install
 ```
-##### Algumas dependencias que usei ( segue meu part do meu package.json):
+##### Algumas dependencias que usei ( segue part do meu package.json):
 ```
  "dependencies": {
     "@types/express": "^4.17.21",
